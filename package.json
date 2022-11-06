@@ -7,7 +7,7 @@
     "start": "node index",
     "dev": "nodemon index"
   },
-  "author": "AlokPatel",
+  "author": "AnimeshSingh",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.1",
